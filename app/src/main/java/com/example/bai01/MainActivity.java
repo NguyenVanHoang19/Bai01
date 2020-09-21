@@ -13,7 +13,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.nio.file.Files;
-
+// main activity
 public class MainActivity extends AppCompatActivity {
     private EditText txtSoA,txtSoB;
     private TextView txtKetQua;
